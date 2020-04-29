@@ -75,3 +75,10 @@ body {
   color: red;
   text-align: center;
 }
+button{
+  margin:10px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+  
+}
